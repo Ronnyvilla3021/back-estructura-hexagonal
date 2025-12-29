@@ -1,0 +1,12 @@
+node_modules
+/nbproject/private/
+combined.log
+error.log
+
+# Environment variables
+.env
+
+# Logs directory
+logs/
+src/infrastructure/config/logs/
+src/infrastructure/logs/
